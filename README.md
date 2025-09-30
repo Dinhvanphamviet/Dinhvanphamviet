@@ -14,7 +14,7 @@
 
 ## 📌 Pinned Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dinhvanphamviet&repo=HUSTAutoPro&theme=tokyonight)](https://github.com/Dinhvanphamviet/HUSTAutoPro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dinhvanphamviet&repo=HUSTAutoPro&theme=tokyonight)](https://github.com/orenosei/HUSTAutoPro)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dinhvanphamviet&repo=student-attendance-tracking&theme=tokyonight)](https://github.com/Dinhvanphamviet/student-attendance-tracking)
 
