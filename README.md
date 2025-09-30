@@ -12,16 +12,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Dinhvanphamviet&icon=7&color=0)](https://visitcount.itsvg.in)
 
-## 📌 Pinned Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dinhvanphamviet&repo=HUSTAutoPro&theme=tokyonight)](https://github.com/orenosei/HUSTAutoPro)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dinhvanphamviet&repo=student-attendance-tracking&theme=tokyonight)](https://github.com/Dinhvanphamviet/student-attendance-tracking)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dinhvanphamviet&repo=Project_OOP_LT_cafe_management_system&theme=tokyonight)](https://github.com/Dinhvanphamviet/Project_OOP_LT_cafe_management_system)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dinhvanphamviet&repo=2024.2_Oop_Lab&theme=tokyonight)](https://github.com/Dinhvanphamviet/2024.2_Oop_Lab)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dinhvanphamviet&repo=kanji-quiz&theme=tokyonight)](https://github.com/Dinhvanphamviet/kanji-quiz)
 
 
