@@ -42,17 +42,21 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dinhvanphamviet&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Dinhvanphamviet&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinhvanphamviet&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dinhvanphamviet/Dinhvanphamviet/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dinhvanphamviet/Dinhvanphamviet/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Dinhvanphamviet/Dinhvanphamviet/output/github-snake.svg" />
+</picture>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dinhvanphamviet&icon=7&color=0)](https://visitcount.itsvg.in)
-
-
-
