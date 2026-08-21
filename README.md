@@ -1,7 +1,9 @@
-# 🚀 Việt Đinh  
+# 🚀 Đinh Việt
+🌸 Backend Developer | HUST K68
+
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tolavietdayahihi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_dinhviet) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vietphamdinhvan@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tolavietdayahihihi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_dinhviet) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vietphamdinhvan@gmail.com) 
 
 # 💻 Tech Stack
 
@@ -44,9 +46,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dinhvanphamviet&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dinhvanphamviet&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinhvanphamviet&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Dinhvanphamviet&theme=neon&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Dinhvanphamviet&theme=neon&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dinhvanphamviet&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
